@@ -1,0 +1,1 @@
+{"name":"Local: frog-iteration","url":"d:\\phitron\\Algorithms\\dynamic programming\\frog-iteration.cpp","tests":[{"id":1693987112999,"input":"4\n10 30 40 20","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\Algorithms\\dynamic programming\\frog-iteration.cpp","group":"local","local":true}
