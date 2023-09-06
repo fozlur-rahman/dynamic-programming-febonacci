@@ -1,0 +1,1 @@
+{"name":"Local: forg-using-top-down","url":"d:\\phitron\\Algorithms\\dynamic programming\\forg-using-top-down.cpp","tests":[{"id":1693985249093,"input":"4\n10 30 40 20","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\Algorithms\\dynamic programming\\forg-using-top-down.cpp","group":"local","local":true}
